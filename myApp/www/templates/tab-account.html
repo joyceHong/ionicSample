@@ -1,0 +1,20 @@
+<ion-view title="Account">   
+    <ion-content>
+        <div class="list">
+            <h1>setting parameter</h1>
+            <div class="item item-input-inset">
+                <label class="item-input-wrapper">
+                    <input ng-model="$parent.address" id="address" type="text" placeholder="Address">
+                </label>
+            </div>
+            <div class="item item-input-inset">
+                <label class="item-input-wrapper">
+                    <input ng-model="$parent.range" id="range" type="number" placeholder="Range">
+                </label>
+            </div>           
+            </div>
+        <button id="saveButton"  class="button button-full button-calm" ng-click="settingParameter()">
+            save
+        </button>
+</ion-content>
+</ion-view>

@@ -1,0 +1,9 @@
+D:\joyce\ionicSample\samleNodeJS\bin\Debug\samleNodeJS.exe.config
+D:\joyce\ionicSample\samleNodeJS\bin\Debug\samleNodeJS.exe
+D:\joyce\ionicSample\samleNodeJS\bin\Debug\samleNodeJS.pdb
+D:\joyce\ionicSample\samleNodeJS\obj\Debug\samleNodeJS.csprojResolveAssemblyReference.cache
+D:\joyce\ionicSample\samleNodeJS\obj\Debug\samleNodeJS.Form1.resources
+D:\joyce\ionicSample\samleNodeJS\obj\Debug\samleNodeJS.Properties.Resources.resources
+D:\joyce\ionicSample\samleNodeJS\obj\Debug\samleNodeJS.csproj.GenerateResource.Cache
+D:\joyce\ionicSample\samleNodeJS\obj\Debug\samleNodeJS.exe
+D:\joyce\ionicSample\samleNodeJS\obj\Debug\samleNodeJS.pdb
